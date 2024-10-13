@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 /*
- 9. Palindrome
+ 9. Palindrome - Completed - Easy
 */
 namespace Testing
 {
